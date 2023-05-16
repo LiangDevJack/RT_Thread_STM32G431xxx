@@ -1,0 +1,16 @@
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/src/mem.c
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+lecture3\mem.o: ../RT-Thread/rtconfig.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\stdarg.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+lecture3\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\ctype.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+lecture3\mem.o: E:\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
